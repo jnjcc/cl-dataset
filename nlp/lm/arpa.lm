@@ -1,0 +1,176 @@
+\data\
+ngram 1=43
+ngram 2=58
+ngram 3=63
+
+\1-grams:
+-1.8721 <UNK> 0.0000
+-1.8721 Dark -0.0826
+-1.8721 Dwarf-lords -0.0762
+-1.8721 Elven-kings -0.0826
+-1.5563 In -0.2087
+-1.5563 Land -0.2482
+-1.8721 Lord -0.0826
+-1.8721 Men -0.0826
+-1.5563 Mordor -0.2545
+-1.8721 Mortal -0.0826
+-1.8721 Nine -0.0636
+-1.2553 One -0.6461
+-1.3802 Ring -99.9990
+-1.8721 Rings -0.0636
+-1.8721 Seven -0.0636
+-1.8721 Shadows -0.0826
+-1.8721 Three -0.0826
+-1.5563 all -0.0574
+-1.8721 and -0.0762
+-1.8721 bind -0.0636
+-1.8721 bring -0.0636
+-1.8721 dark -0.0826
+-1.8721 darkness -0.0826
+-1.8721 die -0.0636
+-1.8721 doomed -0.0636
+-1.8721 find -0.0636
+-1.2553 for -0.6258
+-1.8721 halls -0.0699
+-1.8721 his -0.0826
+-1.5563 in -0.0237
+-1.8721 lie -0.0636
+-1.3802 of -0.1805
+-1.8721 on -0.0826
+-1.8721 rule -0.0636
+-1.8721 sky -0.0826
+-1.8721 stone -0.0826
+-0.9031 the -0.1090
+-1.8721 their -0.0826
+-1.2553 them -0.1173
+-1.8721 throne -0.0762
+-1.2553 to -0.0644
+-1.8721 under -0.0304
+-1.5563 where -0.2087
+
+\2-grams:
+-0.7347 Dark Lord -0.0148
+-0.7347 Dwarf-lords in -0.0613
+-0.7347 Elven-kings under -0.0148
+-0.3383 In the -0.0337
+-0.3383 Land of 0.0782
+-0.7347 Lord on -0.0148
+-0.7347 Men doomed -0.0148
+-0.3383 Mordor where 0.1863
+-0.7347 Mortal Men -0.0148
+-0.7347 Nine for -0.0827
+-0.1249 One Ring -99.9990
+-1.3367 One for 0.4988
+0.0000 Ring to -0.0386
+-0.7347 Rings for 0.4988
+-0.7347 Seven for 0.4988
+-0.7347 Shadows lie -0.0148
+-0.7347 Three Rings -0.0148
+-1.0357 all One 0.4988
+-1.0357 all and -0.0148
+-0.7347 and in -0.0613
+-0.7347 bind them -0.0827
+-0.7347 bring them 0.0100
+-0.7347 dark throne -0.0148
+-0.7347 darkness bind -0.0148
+-0.7347 die One -0.0827
+-0.7347 doomed to -0.0827
+-0.7347 find them -0.0827
+-1.3367 for Mortal -0.0148
+-0.1249 for the -0.0757
+-0.7347 halls of -0.0757
+-0.7347 his dark -0.0148
+-1.0357 in the -0.0942
+-1.0357 in their -0.0148
+-0.7347 lie One 0.4988
+-0.5144 of Mordor 0.1863
+-1.2118 of stone -0.0148
+-0.7347 on his -0.0148
+-0.7347 rule them 0.0100
+-0.7347 sky Seven -0.0148
+-0.7347 stone Nine -0.0148
+-1.6889 the Dark -0.0148
+-1.6889 the Dwarf-lords -0.0148
+-1.6889 the Elven-kings -0.0148
+-0.9915 the Land 0.1863
+-0.9915 the Shadows 0.0080
+-1.6889 the darkness -0.0148
+-1.6889 the sky -0.0148
+-0.7347 their halls -0.0148
+-1.3367 them In 0.1635
+-1.3367 them One 0.4988
+-0.6393 them all -0.0148
+-0.7347 throne In 0.1635
+-1.3367 to bring -0.0148
+-1.3367 to die -0.0148
+-1.3367 to find -0.0148
+-1.3367 to rule -0.0148
+-0.7347 under the -0.0942
+-0.3383 where the -0.0337
+
+\3-grams:
+-0.6746 Dark Lord on
+-0.6746 Dwarf-lords in their
+-0.6746 Elven-kings under the
+-0.7722 In the Land
+-0.7722 Land of Mordor
+-0.6746 Lord on his
+-0.6746 Men doomed to
+-0.7722 Mordor where the
+-0.6746 Mortal Men doomed
+-0.6746 Nine for Mortal
+0.0000 One Ring to
+-0.6746 One for the
+-1.1517 Ring to bring
+-1.1517 Ring to find
+-1.1517 Ring to rule
+-0.6746 Rings for the
+-0.6746 Seven for the
+-0.6746 Shadows lie One
+-0.6746 Three Rings for
+-0.6746 all One Ring
+-0.6746 all and in
+-0.6746 and in the
+-0.6746 bind them In
+-0.6746 bring them all
+-0.6746 dark throne In
+-0.6746 darkness bind them
+-0.6746 die One for
+-0.6746 doomed to die
+-0.6746 find them One
+-0.6746 for Mortal Men
+-1.1517 for the Dark
+-1.1517 for the Dwarf-lords
+-1.1517 for the Elven-kings
+-0.6746 halls of stone
+-0.6746 his dark throne
+-0.6746 in the darkness
+-0.6746 in their halls
+-0.6746 lie One Ring
+-0.7722 of Mordor where
+-0.6746 of stone Nine
+-0.6746 on his dark
+-0.6746 rule them all
+-0.6746 sky Seven for
+-0.6746 stone Nine for
+-0.6746 the Dark Lord
+-0.6746 the Dwarf-lords in
+-0.6746 the Elven-kings under
+-0.7722 the Land of
+-0.7722 the Shadows lie
+-0.6746 the darkness bind
+-0.6746 the sky Seven
+-0.6746 their halls of
+-0.6746 them In the
+-0.6746 them One Ring
+-0.9756 them all and
+-0.9756 them all One
+-0.6746 throne In the
+-0.6746 to bring them
+-0.6746 to die One
+-0.6746 to find them
+-0.6746 to rule them
+-0.6746 under the sky
+-0.7722 where the Shadows
+
+\end\
